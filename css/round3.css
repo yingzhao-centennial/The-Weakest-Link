@@ -1,0 +1,55 @@
+.containerClass1
+{
+  width:980px;
+  height:750px;
+  display:block;
+  margin: 0px auto 0px auto;
+}
+
+.headerClass
+{
+  height:80px;
+  width:100%;
+  text-align:center;
+  font-size:26px;
+}
+
+
+
+footer>span
+{
+  display:inline-block;
+  height:10px;
+  width:150px;
+  padding-left:20px;
+  position:relative;
+  margin-left:490px;
+}
+
+
+
+
+.mainClass1
+{
+  height:500px;
+  width:100%;
+  display:block;
+  position:relative;
+  left:300px;
+  bottom:-50px;
+ 
+}
+
+#test
+{
+  width:350px;
+  height:65%;
+  margin:0px auto 0px auto;
+  position:absolute;
+  padding:10px 40px 40px 40px;
+  border:1px solid #000 
+}
+
+
+
+

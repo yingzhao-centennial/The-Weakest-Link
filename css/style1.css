@@ -1,0 +1,99 @@
+.containerClass
+{
+  width:980px;
+  height:750px;
+  display:block;
+  margin: 0px auto 0px auto;
+}
+
+.headerClass
+{
+  height:80px;
+  width:100%;
+  text-align:center;
+  font-size:26px;
+}
+.mainClass
+{
+  height:500px;
+  width:100%;
+  display:block;
+  position:relative;
+  bottom:-60px;
+}
+.moneyTreeClass
+{
+  width:300px;
+  height:100%;
+  display:inline-block;
+  position:relative;
+  left:150px;
+}
+
+#Question_Answer1
+{
+  width:350px;
+  height:50%;
+  left:350px;
+  position:absolute;
+  padding:10px 40px 40px 40px;
+  border:1px solid #000 
+}
+#Question_Answer2
+{
+  width:350px;
+  height:65%;
+  left:400px;
+  position:absolute;
+  padding:10px 40px 40px 40px;
+  border:1px solid #000 
+}
+footer
+{
+  height:80px;
+  width:100%;
+  display:block;
+  position:relative;
+}
+footer>span
+{
+  display:inline-block;
+  height:50px;
+  width:150px;
+  padding-left:20px;
+}
+.bankClass
+{
+  top:20px;
+  position:relative;
+  left:650px;
+}
+.numberClass
+{
+  left:850px;
+  position:absolute;
+  top:10px;
+  
+}
+
+.round3questionClass
+{
+
+  border:#000 1px solid;
+  padding:60px 40px 40px 40px;
+  display:inline-block;
+  position:absolute;
+  top:150px;
+
+}
+
+.mainClass1
+{
+  height:500px;
+  width:100%;
+  display:block;
+  position:relative;
+  left:300px;
+  bottom:-50px;
+ 
+}
